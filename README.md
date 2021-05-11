@@ -12,5 +12,7 @@
 Чтобы jupyter notebooks корректно отображались необходимо скачать данные файлы и открыть их в уставленном Jupyter Notebook или открыть в браузере Google Colab (https://colab.research.google.com/) и загрузить туда данные файлы.
 
 Парсер для источника телеграм был использован по анлогии с https://proglib.io/p/pishem-prostoy-grabber-dlya-telegram-chatov-na-python-2019-11-06
+
 Парсер для источника МФД был заимствован у коллеги и его файлы можно найти в другом репозитарии: https://github.com/ilia-stepanov/parser_MFD
+
 Парсер для источника онлайн-издания сделан по анлогии с работой: https://github.com/ilia-stepanov/hse_news_project
